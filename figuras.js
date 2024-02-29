@@ -26,3 +26,4 @@ switch (opcion) {
         alert("La opcion escogida no es valida");
         break;
 }
+/* Codigo para encontrar areas  figuras*/
